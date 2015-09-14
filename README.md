@@ -1,3 +1,3 @@
 # idapyscripts
 ### Collection of my IDAPython scripts
-dataxrefcounter.py - iterates all the data xrefs within a segment and counts the references. Useful for finding global vars.
+dataxrefcounter.py - iterates all the data xrefs within a segment, counts the references, and lists within a IDA table. Can export to csv. Useful for finding global vars.
